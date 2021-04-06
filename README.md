@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guttume
 - 👀 I’m interested in systems programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++ projects
+- 🌱 I’m currently learning c++ and kotlin
+- 💞️ I’m looking to collaborate on c++ or kotlin projects
 - 📫 How to reach me ...
 
 <!---
