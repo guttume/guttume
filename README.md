@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guttume
-- 👀 I’m interested in systems programming, data engineering, artificial intelligence
+- 👀 I’m a fullstack developer but interested in systems programming, data engineering, artificial intelligence
 - 🌱 I’m currently improving my dsa using python
 - 📫 How to reach me ...
 
