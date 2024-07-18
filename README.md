@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guttume
-- 👀 I’m a fullstack developer but interested in systems programming, data engineering, artificial intelligence
-- 🌱 I’m currently improving my dsa using python
+- 👀 I’m a fullstack developer but also interested in systems programming, data engineering, artificial intelligence
+- 🌱 I’m currently improving my dsa using python and learning pyspark
 - 📫 How to reach me ...
 
 <!---
